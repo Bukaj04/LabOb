@@ -1,5 +1,2 @@
-# LabOb
-* Nowy typ asteroidy - dziesięciokątny
-* Nowa broń - poczwórny zielony laser
-* Nowy model statku - Gwiazda Śmierci
-* ![nagranie testowe3](https://github.com/user-attachments/assets/558b1b25-c7c1-47db-91c9-48e19a7df766)
+# LabOb 2
+![d0f9a563-0579-484e-9fce-893b2f3735ca](https://github.com/user-attachments/assets/092be878-0faf-41e2-a65c-859ea11378f9)
